@@ -1,3 +1,3 @@
 # Rubykoans
 
-Passed 31/282.
+Passed 110/282
